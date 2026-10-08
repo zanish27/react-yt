@@ -1,0 +1,7 @@
+open the terminal ..
+to create new folder in react ... npm create vite
+ab usi folder ma jana h to cd or folder ka name likhna like  cd 01-folder
+npm run dev .... server host live hosting 
+
+main.jsx is the parent of app.jsx
+index.html is the grandparent of main.jsx
