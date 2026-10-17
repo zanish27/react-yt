@@ -8,13 +8,8 @@
 import React from 'react'
 const App = () => {
   return (
-    <>
-    <div id='dada' >
-      <h1 id='child1' >HELLO HOW R U</h1>
-      <h2 id='child2'> its you</h2>
-    </div>
-    <div id="chacha">
-      <h1> new world</h1>
+    <div>
+      
     </div>
    </>
   )
